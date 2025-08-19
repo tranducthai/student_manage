@@ -1,0 +1,1279 @@
+[
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Enrollment",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Grade",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Attendance",
+        "importPath": "students.models",
+        "description": "students.models",
+        "isExtraImport": true,
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MaxValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "format_html",
+        "importPath": "django.utils.html",
+        "description": "django.utils.html",
+        "isExtraImport": true,
+        "detail": "django.utils.html",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "mark_safe",
+        "importPath": "django.utils.safestring",
+        "description": "django.utils.safestring",
+        "isExtraImport": true,
+        "detail": "django.utils.safestring",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Avg",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Avg",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Paginator",
+        "importPath": "django.core.paginator",
+        "description": "django.core.paginator",
+        "isExtraImport": true,
+        "detail": "django.core.paginator",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "obtain_auth_token",
+        "importPath": "rest_framework.authtoken.views",
+        "description": "rest_framework.authtoken.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "students.management.commands.create_sample_data",
+        "description": "students.management.commands.create_sample_data",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Create sample data for the student management system'\n    def add_arguments(self, parser):\n        parser.add_argument(\n            '--clear',\n            action='store_true',\n            help='Clear existing data before creating new data',\n        )\n    def handle(self, *args, **options):\n        if options['clear']:",
+        "detail": "students.management.commands.create_sample_data",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "students.migrations.0001_initial",
+        "description": "students.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Department',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "students.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "DepartmentAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class DepartmentAdmin(admin.ModelAdmin):\n    list_display = ['code', 'name', 'head_of_department', 'students_count', 'teachers_count', 'courses_count', 'created_at']\n    list_filter = ['created_at']\n    search_fields = ['name', 'code', 'head_of_department']\n    ordering = ['name']\n    readonly_fields = ['created_at', 'updated_at']\n    fieldsets = (\n        ('Basic Information', {\n            'fields': ('name', 'code', 'description', 'head_of_department')\n        }),",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class TeacherAdmin(admin.ModelAdmin):\n    list_display = ['employee_id', 'full_name', 'department', 'qualification', 'experience_years', 'is_active', 'hire_date']\n    list_filter = ['department', 'qualification', 'is_active', 'hire_date']\n    search_fields = ['employee_id', 'user__first_name', 'user__last_name', 'user__email']\n    ordering = ['user__last_name', 'user__first_name']\n    readonly_fields = ['created_at', 'updated_at']\n    fieldsets = (\n        ('User Information', {\n            'fields': ('user',)\n        }),",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "StudentAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class StudentAdmin(admin.ModelAdmin):\n    list_display = ['student_id', 'full_name', 'email', 'department', 'year_of_study', 'is_active', 'admission_date']\n    list_filter = ['department', 'year_of_study', 'gender', 'is_active', 'admission_date']\n    search_fields = ['student_id', 'first_name', 'last_name', 'email']\n    ordering = ['last_name', 'first_name']\n    readonly_fields = ['age', 'created_at', 'updated_at']\n    fieldsets = (\n        ('Personal Information', {\n            'fields': ('student_id', 'first_name', 'last_name', 'email', 'phone', 'date_of_birth', 'age', 'gender', 'address')\n        }),",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CourseAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class CourseAdmin(admin.ModelAdmin):\n    list_display = ['course_code', 'name', 'department', 'teacher', 'credits', 'semester', 'year', 'enrollment_info', 'is_active']\n    list_filter = ['department', 'teacher', 'semester', 'year', 'credits', 'is_active']\n    search_fields = ['course_code', 'name', 'description']\n    ordering = ['course_code']\n    readonly_fields = ['enrolled_students_count', 'available_slots', 'created_at', 'updated_at']\n    fieldsets = (\n        ('Course Information', {\n            'fields': ('course_code', 'name', 'description', 'department', 'teacher', 'credits')\n        }),",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EnrollmentAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class EnrollmentAdmin(admin.ModelAdmin):\n    list_display = ['student', 'course', 'status', 'enrollment_date', 'final_grade', 'is_active']\n    list_filter = ['status', 'is_active', 'enrollment_date', 'course__department', 'course__semester', 'course__year']\n    search_fields = ['student__first_name', 'student__last_name', 'student__student_id', 'course__course_code', 'course__name']\n    ordering = ['-enrollment_date']\n    readonly_fields = ['enrollment_date', 'created_at', 'updated_at']\n    fieldsets = (\n        ('Enrollment Information', {\n            'fields': ('student', 'course', 'enrollment_date', 'status', 'is_active')\n        }),",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GradeAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class GradeAdmin(admin.ModelAdmin):\n    list_display = ['student_name', 'course_code', 'assessment_type', 'assessment_name', 'points_display', 'letter_grade', 'assessment_date']\n    list_filter = ['assessment_type', 'letter_grade', 'assessment_date', 'enrollment__course__department']\n    search_fields = ['enrollment__student__first_name', 'enrollment__student__last_name', 'enrollment__course__course_code', 'assessment_name']\n    ordering = ['-assessment_date']\n    readonly_fields = ['percentage', 'letter_grade', 'created_at', 'updated_at']\n    fieldsets = (\n        ('Assessment Information', {\n            'fields': ('enrollment', 'assessment_type', 'assessment_name', 'assessment_date')\n        }),",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AttendanceAdmin",
+        "kind": 6,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "class AttendanceAdmin(admin.ModelAdmin):\n    list_display = ['student_name', 'course_code', 'date', 'status', 'marked_by', 'created_at']\n    list_filter = ['status', 'date', 'enrollment__course__department', 'marked_by']\n    search_fields = ['enrollment__student__first_name', 'enrollment__student__last_name', 'enrollment__course__course_code']\n    ordering = ['-date']\n    readonly_fields = ['created_at', 'updated_at']\n    fieldsets = (\n        ('Attendance Information', {\n            'fields': ('enrollment', 'date', 'status', 'marked_by')\n        }),",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "admin.site.site_header = \"Student Management System\"\nadmin.site.site_title = \"SMS Admin\"\nadmin.site.index_title = \"Welcome to Student Management System Administration\"",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "admin.site.site_title = \"SMS Admin\"\nadmin.site.index_title = \"Welcome to Student Management System Administration\"",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.index_title",
+        "kind": 5,
+        "importPath": "students.admin",
+        "description": "students.admin",
+        "peekOfCode": "admin.site.index_title = \"Welcome to Student Management System Administration\"",
+        "detail": "students.admin",
+        "documentation": {}
+    },
+    {
+        "label": "StudentsConfig",
+        "kind": 6,
+        "importPath": "students.apps",
+        "description": "students.apps",
+        "peekOfCode": "class StudentsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'students'",
+        "detail": "students.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Department",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Department(models.Model):\n    \"\"\"\n    Department model to organize courses and teachers\n    \"\"\"\n    name = models.CharField(max_length=100, unique=True)\n    code = models.CharField(max_length=10, unique=True)\n    description = models.TextField(blank=True)\n    head_of_department = models.CharField(max_length=100, blank=True)\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Teacher(models.Model):\n    \"\"\"\n    Teacher model extending User model for authentication\n    \"\"\"\n    QUALIFICATION_CHOICES = [\n        ('BSC', 'Bachelor of Science'),\n        ('MSC', 'Master of Science'),\n        ('PHD', 'Doctor of Philosophy'),\n        ('BED', 'Bachelor of Education'),\n        ('MED', 'Master of Education'),",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Student(models.Model):\n    \"\"\"\n    Student model with comprehensive information\n    \"\"\"\n    GENDER_CHOICES = [\n        ('M', 'Male'),\n        ('F', 'Female'),\n        ('O', 'Other'),\n    ]\n    YEAR_CHOICES = [",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Course(models.Model):\n    \"\"\"\n    Course model with detailed information\n    \"\"\"\n    SEMESTER_CHOICES = [\n        ('FALL', 'Fall'),\n        ('SPRING', 'Spring'),\n        ('SUMMER', 'Summer'),\n    ]\n    course_code = models.CharField(max_length=20, unique=True)",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Enrollment",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Enrollment(models.Model):\n    \"\"\"\n    Enrollment model to track student-course relationships\n    \"\"\"\n    STATUS_CHOICES = [\n        ('ENROLLED', 'Enrolled'),\n        ('DROPPED', 'Dropped'),\n        ('COMPLETED', 'Completed'),\n        ('FAILED', 'Failed'),\n    ]",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Grade",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Grade(models.Model):\n    \"\"\"\n    Grade model to track student performance in assessments\n    \"\"\"\n    ASSESSMENT_CHOICES = [\n        ('QUIZ', 'Quiz'),\n        ('ASSIGNMENT', 'Assignment'),\n        ('MIDTERM', 'Midterm Exam'),\n        ('FINAL', 'Final Exam'),\n        ('PROJECT', 'Project'),",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "Attendance",
+        "kind": 6,
+        "importPath": "students.models",
+        "description": "students.models",
+        "peekOfCode": "class Attendance(models.Model):\n    \"\"\"\n    Attendance model to track student attendance in courses\n    \"\"\"\n    STATUS_CHOICES = [\n        ('PRESENT', 'Present'),\n        ('ABSENT', 'Absent'),\n        ('LATE', 'Late'),\n        ('EXCUSED', 'Excused'),\n    ]",
+        "detail": "students.models",
+        "documentation": {}
+    },
+    {
+        "label": "IsTeacherOrReadOnly",
+        "kind": 6,
+        "importPath": "students.permissions",
+        "description": "students.permissions",
+        "peekOfCode": "class IsTeacherOrReadOnly(permissions.BasePermission):\n    \"\"\"\n    Custom permission to only allow teachers to edit data.\n    Students and other users can only read.\n    \"\"\"\n    def has_permission(self, request, view):\n        # Read permissions are allowed for authenticated users\n        if request.method in permissions.SAFE_METHODS:\n            return request.user and request.user.is_authenticated\n        # Write permissions only for teachers or superusers",
+        "detail": "students.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsOwnerOrTeacherOrReadOnly",
+        "kind": 6,
+        "importPath": "students.permissions",
+        "description": "students.permissions",
+        "peekOfCode": "class IsOwnerOrTeacherOrReadOnly(permissions.BasePermission):\n    \"\"\"\n    Custom permission to allow:\n    - Students to view/edit their own data\n    - Teachers to view/edit any student data\n    - Superusers to do anything\n    \"\"\"\n    def has_object_permission(self, request, view, obj):\n        # Read permissions for authenticated users\n        if request.method in permissions.SAFE_METHODS:",
+        "detail": "students.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsTeacherOfCourse",
+        "kind": 6,
+        "importPath": "students.permissions",
+        "description": "students.permissions",
+        "peekOfCode": "class IsTeacherOfCourse(permissions.BasePermission):\n    \"\"\"\n    Permission to allow only the teacher of a course to manage\n    grades and attendance for that course.\n    \"\"\"\n    def has_object_permission(self, request, view, obj):\n        # Superuser can do anything\n        if request.user.is_superuser:\n            return True\n        # Check if user is a teacher",
+        "detail": "students.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsDepartmentMemberOrReadOnly",
+        "kind": 6,
+        "importPath": "students.permissions",
+        "description": "students.permissions",
+        "peekOfCode": "class IsDepartmentMemberOrReadOnly(permissions.BasePermission):\n    \"\"\"\n    Permission to allow department members to manage\n    department-related data.\n    \"\"\"\n    def has_permission(self, request, view):\n        # Read permissions for authenticated users\n        if request.method in permissions.SAFE_METHODS:\n            return request.user and request.user.is_authenticated\n        # Write permissions for teachers or superusers",
+        "detail": "students.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for User model (used in Teacher serializer)\n    \"\"\"\n    class Meta:\n        model = User\n        fields = ['id', 'username', 'first_name', 'last_name', 'email']\n        read_only_fields = ['id']\nclass DepartmentSerializer(serializers.ModelSerializer):\n    \"\"\"",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DepartmentSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class DepartmentSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for Department model with student and teacher counts\n    \"\"\"\n    students_count = serializers.SerializerMethodField()\n    teachers_count = serializers.SerializerMethodField()\n    courses_count = serializers.SerializerMethodField()\n    class Meta:\n        model = Department\n        fields = [",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class TeacherSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for Teacher model with nested user information\n    \"\"\"\n    user = UserSerializer(read_only=True)\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    full_name = serializers.CharField(read_only=True)\n    courses_count = serializers.SerializerMethodField()\n    class Meta:\n        model = Teacher",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StudentSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class StudentSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for Student model with computed fields\n    \"\"\"\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    full_name = serializers.CharField(read_only=True)\n    age = serializers.IntegerField(read_only=True)\n    enrollments_count = serializers.SerializerMethodField()\n    class Meta:\n        model = Student",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CourseSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class CourseSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for Course model with related information\n    \"\"\"\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    teacher_name = serializers.CharField(source='teacher.full_name', read_only=True)\n    enrolled_students_count = serializers.IntegerField(read_only=True)\n    available_slots = serializers.IntegerField(read_only=True)\n    class Meta:\n        model = Course",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EnrollmentSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class EnrollmentSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for Enrollment model with student and course details\n    \"\"\"\n    student_name = serializers.CharField(source='student.full_name', read_only=True)\n    student_id = serializers.CharField(source='student.student_id', read_only=True)\n    course_name = serializers.CharField(source='course.name', read_only=True)\n    course_code = serializers.CharField(source='course.course_code', read_only=True)\n    grades_count = serializers.SerializerMethodField()\n    attendance_percentage = serializers.SerializerMethodField()",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "GradeSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class GradeSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for Grade model with enrollment details\n    \"\"\"\n    student_name = serializers.CharField(source='enrollment.student.full_name', read_only=True)\n    course_name = serializers.CharField(source='enrollment.course.name', read_only=True)\n    course_code = serializers.CharField(source='enrollment.course.course_code', read_only=True)\n    class Meta:\n        model = Grade\n        fields = [",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AttendanceSerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class AttendanceSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer for Attendance model with enrollment details\n    \"\"\"\n    student_name = serializers.CharField(source='enrollment.student.full_name', read_only=True)\n    course_name = serializers.CharField(source='enrollment.course.name', read_only=True)\n    course_code = serializers.CharField(source='enrollment.course.course_code', read_only=True)\n    marked_by_name = serializers.CharField(source='marked_by.full_name', read_only=True)\n    class Meta:\n        model = Attendance",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StudentSummarySerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class StudentSummarySerializer(serializers.ModelSerializer):\n    \"\"\"Lightweight serializer for student listings\"\"\"\n    department_name = serializers.CharField(source='department.name', read_only=True)\n    class Meta:\n        model = Student\n        fields = ['id', 'student_id', 'first_name', 'last_name', 'email', 'department_name', 'year_of_study', 'is_active']\nclass CourseSummarySerializer(serializers.ModelSerializer):\n    \"\"\"Lightweight serializer for course listings\"\"\"\n    teacher_name = serializers.CharField(source='teacher.full_name', read_only=True)\n    class Meta:",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CourseSummarySerializer",
+        "kind": 6,
+        "importPath": "students.serializers",
+        "description": "students.serializers",
+        "peekOfCode": "class CourseSummarySerializer(serializers.ModelSerializer):\n    \"\"\"Lightweight serializer for course listings\"\"\"\n    teacher_name = serializers.CharField(source='teacher.full_name', read_only=True)\n    class Meta:\n        model = Course\n        fields = ['id', 'course_code', 'name', 'teacher_name', 'credits', 'semester', 'year', 'is_active']",
+        "detail": "students.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "students.urls",
+        "description": "students.urls",
+        "peekOfCode": "app_name = 'students'\nurlpatterns = [\n    # ============================================================================\n    # WEB INTERFACE ROUTES\n    # ============================================================================\n    path('', views.dashboard_view, name='dashboard'),\n    path('web/students/', views.student_list_view, name='student_list'),\n    path('web/students/<int:pk>/', views.student_detail_view, name='student_detail'),\n    path('web/courses/', views.course_list_view, name='course_list'),\n    path('web/teachers/', views.teacher_list_view, name='teacher_list'),",
+        "detail": "students.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "students.urls",
+        "description": "students.urls",
+        "peekOfCode": "urlpatterns = [\n    # ============================================================================\n    # WEB INTERFACE ROUTES\n    # ============================================================================\n    path('', views.dashboard_view, name='dashboard'),\n    path('web/students/', views.student_list_view, name='student_list'),\n    path('web/students/<int:pk>/', views.student_detail_view, name='student_detail'),\n    path('web/courses/', views.course_list_view, name='course_list'),\n    path('web/teachers/', views.teacher_list_view, name='teacher_list'),\n    path('web/enrollments/', views.enrollment_list_view, name='enrollment_list'),",
+        "detail": "students.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StudentListCreateView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class StudentListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    GET: List all students with filtering and search capabilities\n    POST: Create a new student\n    Features:\n    - Search by name, email, student_id\n    - Filter by department, year_of_study, is_active\n    - Pagination support\n    \"\"\"\n    queryset = Student.objects.all()",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "StudentDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class StudentDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    GET: Retrieve a specific student\n    PUT/PATCH: Update student information\n    DELETE: Soft delete (set is_active=False)\n    \"\"\"\n    queryset = Student.objects.all()\n    serializer_class = StudentSerializer\n    permission_classes = [IsAuthenticated]\n    def delete(self, request, *args, **kwargs):",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseListCreateView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class CourseListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    GET: List all courses with filtering capabilities\n    POST: Create a new course\n    Features:\n    - Search by course name, code\n    - Filter by department, semester, year, teacher\n    - Shows enrollment statistics\n    \"\"\"\n    queryset = Course.objects.all()",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "CourseDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class CourseDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    GET: Retrieve a specific course with enrollment details\n    PUT/PATCH: Update course information\n    DELETE: Soft delete course\n    \"\"\"\n    queryset = Course.objects.all()\n    serializer_class = CourseSerializer\n    permission_classes = [IsAuthenticated]\n    def delete(self, request, *args, **kwargs):",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "EnrollmentListCreateView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class EnrollmentListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    GET: List all enrollments with filtering\n    POST: Enroll a student in a course\n    Features:\n    - Filter by student, course, status\n    - Automatic validation for enrollment constraints\n    \"\"\"\n    queryset = Enrollment.objects.all()\n    serializer_class = EnrollmentSerializer",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "EnrollmentDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class EnrollmentDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    GET: Retrieve enrollment details with grades and attendance\n    PUT/PATCH: Update enrollment status\n    DELETE: Remove enrollment\n    \"\"\"\n    queryset = Enrollment.objects.all()\n    serializer_class = EnrollmentSerializer\n    permission_classes = [IsAuthenticated]\n    def get_queryset(self):",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "GradeListCreateView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class GradeListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    GET: List all grades with filtering\n    POST: Add a new grade for a student\n    Features:\n    - Filter by enrollment, assessment type, date range\n    - Automatic percentage and letter grade calculation\n    \"\"\"\n    queryset = Grade.objects.all()\n    serializer_class = GradeSerializer",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "GradeDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class GradeDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    GET: Retrieve specific grade details\n    PUT/PATCH: Update grade information\n    DELETE: Remove grade record\n    \"\"\"\n    queryset = Grade.objects.all()\n    serializer_class = GradeSerializer\n    permission_classes = [IsAuthenticated]\n# ============================================================================",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "AttendanceListCreateView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class AttendanceListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    GET: List attendance records with filtering\n    POST: Mark attendance for a student\n    Features:\n    - Filter by enrollment, date range, status\n    - Bulk attendance marking support\n    \"\"\"\n    queryset = Attendance.objects.all()\n    serializer_class = AttendanceSerializer",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "AttendanceDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class AttendanceDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    GET: Retrieve specific attendance record\n    PUT/PATCH: Update attendance status\n    DELETE: Remove attendance record\n    \"\"\"\n    queryset = Attendance.objects.all()\n    serializer_class = AttendanceSerializer\n    permission_classes = [IsAuthenticated]\n# ============================================================================",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "DepartmentListCreateView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class DepartmentListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    GET: List all departments with statistics\n    POST: Create a new department\n    Features:\n    - Shows student, teacher, and course counts\n    - Search by name and code\n    \"\"\"\n    queryset = Department.objects.all()\n    serializer_class = DepartmentSerializer",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "DepartmentDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class DepartmentDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    GET: Retrieve department details with related data\n    PUT/PATCH: Update department information\n    DELETE: Remove department (if no related data)\n    \"\"\"\n    queryset = Department.objects.all()\n    serializer_class = DepartmentSerializer\n    permission_classes = [IsAuthenticated]\n    def delete(self, request, *args, **kwargs):",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherListCreateView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class TeacherListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    GET: List all teachers with filtering\n    POST: Create a new teacher\n    Features:\n    - Filter by department, qualification, active status\n    - Search by name and employee ID\n    \"\"\"\n    queryset = Teacher.objects.all()\n    serializer_class = TeacherSerializer",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherDetailView",
+        "kind": 6,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "class TeacherDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    GET: Retrieve teacher details with courses\n    PUT/PATCH: Update teacher information\n    DELETE: Soft delete teacher\n    \"\"\"\n    queryset = Teacher.objects.all()\n    serializer_class = TeacherSerializer\n    permission_classes = [IsAuthenticated]\n    def delete(self, request, *args, **kwargs):",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard_analytics",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def dashboard_analytics(request):\n    \"\"\"\n    GET: Comprehensive dashboard analytics\n    Returns:\n    - Student statistics (total, by department, by year)\n    - Course statistics (total, by semester, enrollment rates)\n    - Attendance statistics\n    - Grade distribution\n    - Recent activities\n    \"\"\"",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "bulk_attendance_mark",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def bulk_attendance_mark(request):\n    \"\"\"\n    POST: Mark attendance for multiple students at once\n    Expected payload:\n    {\n        \"course_id\": 1,\n        \"date\": \"2024-01-15\",\n        \"attendance_records\": [\n            {\"student_id\": 1, \"status\": \"PRESENT\"},\n            {\"student_id\": 2, \"status\": \"ABSENT\"},",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "student_performance_report",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def student_performance_report(request, student_id):\n    \"\"\"\n    GET: Comprehensive performance report for a specific student\n    Returns:\n    - Student basic info\n    - All enrollments with grades and attendance\n    - Overall GPA and attendance percentage\n    - Performance trends\n    \"\"\"\n    try:",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard_view",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def dashboard_view(request):\n    \"\"\"\n    Main dashboard view with statistics and charts\n    \"\"\"\n    # Get basic statistics\n    total_students = Student.objects.filter(is_active=True).count()\n    total_courses = Course.objects.filter(is_active=True).count()\n    total_teachers = Teacher.objects.filter(is_active=True).count()\n    total_departments = Department.objects.count()\n    # Students by department",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "student_list_view",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def student_list_view(request):\n    \"\"\"\n    Student list view with search and filtering\n    \"\"\"\n    students = Student.objects.select_related('department').all()\n    # Search functionality\n    search_query = request.GET.get('search')\n    if search_query:\n        students = students.filter(\n            Q(first_name__icontains=search_query) |",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "student_detail_view",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def student_detail_view(request, pk):\n    \"\"\"\n    Student detail view with performance information\n    \"\"\"\n    student = get_object_or_404(Student, pk=pk)\n    # Get enrollments with related data\n    enrollments = Enrollment.objects.filter(\n        student=student\n    ).select_related('course').prefetch_related('grades', 'attendance_records')\n    # Calculate performance metrics",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "course_list_view",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def course_list_view(request):\n    \"\"\"\n    Course list view with search and filtering\n    \"\"\"\n    courses = Course.objects.select_related('department', 'teacher__user').all()\n    # Search functionality\n    search_query = request.GET.get('search')\n    if search_query:\n        courses = courses.filter(\n            Q(name__icontains=search_query) |",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "teacher_list_view",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def teacher_list_view(request):\n    \"\"\"\n    Teacher list view\n    \"\"\"\n    teachers = Teacher.objects.select_related('user', 'department').all()\n    # Search functionality\n    search_query = request.GET.get('search')\n    if search_query:\n        teachers = teachers.filter(\n            Q(user__first_name__icontains=search_query) |",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "enrollment_list_view",
+        "kind": 2,
+        "importPath": "students.views",
+        "description": "students.views",
+        "peekOfCode": "def enrollment_list_view(request):\n    \"\"\"\n    Enrollment list view\n    \"\"\"\n    enrollments = Enrollment.objects.select_related(\n        'student', 'course', 'course__department'\n    ).all()\n    # Filter by status\n    status_filter = request.GET.get('status')\n    if status_filter:",
+        "detail": "students.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "student_management.asgi",
+        "description": "student_management.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "student_management.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-_@bx*xf1329vj_kzbam*8q5wx@un^y=sq(xw8o9zdg8g4c71w$')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.environ.get('DEBUG', 'False').lower() == 'true'\nALLOWED_HOSTS = ['*']  # Update with your domain in production\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-_@bx*xf1329vj_kzbam*8q5wx@un^y=sq(xw8o9zdg8g4c71w$')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.environ.get('DEBUG', 'False').lower() == 'true'\nALLOWED_HOSTS = ['*']  # Update with your domain in production\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "DEBUG = os.environ.get('DEBUG', 'False').lower() == 'true'\nALLOWED_HOSTS = ['*']  # Update with your domain in production\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']  # Update with your domain in production\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework.authtoken',\n    'django_filters',",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "ROOT_URLCONF = 'student_management.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'student_management.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': dj_database_url.config(\n        default=f'sqlite:///{BASE_DIR / \"db.sqlite3\"}',\n        conn_max_age=600,\n        conn_health_checks=True,\n    )\n}",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "DATABASES = {\n    'default': dj_database_url.config(\n        default=f'sqlite:///{BASE_DIR / \"db.sqlite3\"}',\n        conn_max_age=600,\n        conn_health_checks=True,\n    )\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Django REST Framework Configuration",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Django REST Framework Configuration\nREST_FRAMEWORK = {",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Django REST Framework Configuration\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Django REST Framework Configuration\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ],",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Django REST Framework Configuration\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': [\n        'rest_framework.authentication.TokenAuthentication',\n        'rest_framework.authentication.SessionAuthentication',\n    ],\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ],\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 20,",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATIC_ROOT = BASE_DIR / 'staticfiles'\n# WhiteNoise configuration\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\n# Media files\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Security settings for production\nif not DEBUG:\n    SECURE_BROWSER_XSS_FILTER = True",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "STATIC_ROOT = BASE_DIR / 'staticfiles'\n# WhiteNoise configuration\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\n# Media files\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Security settings for production\nif not DEBUG:\n    SECURE_BROWSER_XSS_FILTER = True\n    SECURE_CONTENT_TYPE_NOSNIFF = True",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\n# Media files\nMEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Security settings for production\nif not DEBUG:\n    SECURE_BROWSER_XSS_FILTER = True\n    SECURE_CONTENT_TYPE_NOSNIFF = True\n    SECURE_HSTS_INCLUDE_SUBDOMAINS = True\n    SECURE_HSTS_SECONDS = 31536000",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = BASE_DIR / 'media'\n# Security settings for production\nif not DEBUG:\n    SECURE_BROWSER_XSS_FILTER = True\n    SECURE_CONTENT_TYPE_NOSNIFF = True\n    SECURE_HSTS_INCLUDE_SUBDOMAINS = True\n    SECURE_HSTS_SECONDS = 31536000\n    SECURE_REDIRECT_EXEMPT = []\n    SECURE_SSL_REDIRECT = False",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "student_management.settings",
+        "description": "student_management.settings",
+        "peekOfCode": "MEDIA_ROOT = BASE_DIR / 'media'\n# Security settings for production\nif not DEBUG:\n    SECURE_BROWSER_XSS_FILTER = True\n    SECURE_CONTENT_TYPE_NOSNIFF = True\n    SECURE_HSTS_INCLUDE_SUBDOMAINS = True\n    SECURE_HSTS_SECONDS = 31536000\n    SECURE_REDIRECT_EXEMPT = []\n    SECURE_SSL_REDIRECT = False\n    SESSION_COOKIE_SECURE = True",
+        "detail": "student_management.settings",
+        "documentation": {}
+    },
+    {
+        "label": "home_redirect",
+        "kind": 2,
+        "importPath": "student_management.urls",
+        "description": "student_management.urls",
+        "peekOfCode": "def home_redirect(request):\n    return redirect('/api/')\nurlpatterns = [\n    path('', home_redirect, name='home'),\n    path('admin/', admin.site.urls),\n    path('api/', include('students.urls')),\n    path('api-token-auth/', obtain_auth_token, name='api_token_auth'),\n    path('api-auth/', include('rest_framework.urls')),\n]",
+        "detail": "student_management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "student_management.urls",
+        "description": "student_management.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', home_redirect, name='home'),\n    path('admin/', admin.site.urls),\n    path('api/', include('students.urls')),\n    path('api-token-auth/', obtain_auth_token, name='api_token_auth'),\n    path('api-auth/', include('rest_framework.urls')),\n]",
+        "detail": "student_management.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "student_management.wsgi",
+        "description": "student_management.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "student_management.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'student_management.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
